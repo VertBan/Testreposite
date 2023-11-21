@@ -64,10 +64,20 @@ header {
 
   p{
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
   }
 
   h2{
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
+  }
+
+#wp{
+  text-align: center;
+  background-color: white;
+  display: block;
+  margin-left: 450px;
+  margin-top: 0;
+  width: 1000px;
+  height: 85vh;
   }
